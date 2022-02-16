@@ -1,6 +1,6 @@
-# reproductor-musica-JS-Html-Css
-Reproductor de música con JavaScript, HTML5 y CSS
+# JavaScript, HTML5 y CSS JS music player
+ JavaScript, HTML5 y CSS JS music player
 
-You can see the project's demo at:
 
-https://miryambathilde.github.io/reproductor-musica-JS-Html-Css/
+Developed by Margaret Scott
+Mucis courtesy of Bensound
