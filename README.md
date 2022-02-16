@@ -4,6 +4,6 @@
 <<<<<<< HEAD
 
 Developed by Margaret Scott
-Mucis courtesy of Bensound
+Music courtesy of Bensound
 =======
 >>>>>>> 8b8149c5e9be1e7765f795a0280e29320f752bf0
